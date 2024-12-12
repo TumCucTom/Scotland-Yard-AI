@@ -2,7 +2,13 @@
 
 This project runs a virtual version of the board game scotland yard and has an AI for Mr X and the players.
 
-See the report [here](report.pdf) or in text below:
+See the report [here](report.pdf) or in text below the screenshots.
+
+## Screenshots:
+Setup:
+![setup](images/setup.png)
+Ongoing game with both AIs:
+![game](images/game.png)
 
 ## What has been done?
 ### CW-MODEL 
